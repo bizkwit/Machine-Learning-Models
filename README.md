@@ -1,7 +1,7 @@
 # Machine-Learning-Models
 
 [![GitHub license](https://img.shields.io/github/license/bizkwit/Machine-Learning-Models)](https://github.com/bizkwit/Machine-Learning-Models/blob/main/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/bizkwit/Machine-Learning-Models/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-green.svg)](https://github.com/bizkwit/Machine-Learning-Models/graphs/commit-activity)
 
 
 ## Overview
